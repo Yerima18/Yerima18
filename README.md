@@ -5,7 +5,6 @@
 <img align="right" alt="coding gif" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 
-<p align="left"> <a href="https://twitter.com/lafiabagri" target="blank"><img src="https://img.shields.io/twitter/follow/lafiabagri?logo=twitter&style=for-the-badge" alt="lafiabagri" /></a> </p>
 
 - 🔭 I’m currently working on **Blog Website with Node,Express and MongoDB**
 
