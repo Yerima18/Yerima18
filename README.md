@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on ** My Portfolio **
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **React,React-Native and Node.js**
 
