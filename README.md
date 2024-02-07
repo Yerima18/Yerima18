@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Blog Website with Node,Express and MongoDB**
+- 🔭 I’m currently working on ** My Portfolio **
 
 - 🌱 I’m currently learning **React,React-Native and Node.js**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://lafiadambagri.super.site/](https://lafiadambagri.super.site/)
 
-- 📫 How to reach me **adambagrilafia@gmail.com**
+- 📫 How to reach me **adambagrilafia@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
