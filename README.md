@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **projects that will boost me up !**
 
-- 👨‍💻 All of my projects are available at [https://lafiadambagri.super.site/](https://lafiadambagri.super.site/)
+- 👨‍💻 All of my projects are available at [[https://lafiadambagri.super.site/](https://lafiadambagri.super.site/)](https://adambagrilafia.editorx.io/portfolio)
 
 - 📫 How to reach me **adambagrilafia@gmail.com** 
 
