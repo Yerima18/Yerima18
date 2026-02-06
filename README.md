@@ -14,6 +14,8 @@
 - 🌱 Learning **Next.js, React, React Native, and Node.js**
 - 👯 Looking to collaborate on **projects that help me grow**
 - 📫 Reach me at **adambagrilafia@gmail.com**
+- 💻 My Portfolio :  [lyma.portfolio](https://lyma-portfolio.vercel.app/)
+
 
 ---
 
