@@ -10,7 +10,7 @@
 <a href="mailto:adambagrilafia@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/lafia-adam-bagri" target="_blank">
+<a href="https://www.linkedin.com/in/lafia-adam-bagri-1b0a73263/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/lymaab_/" target="_blank">
