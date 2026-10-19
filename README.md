@@ -14,9 +14,9 @@ A responsive website for a Cotonou bakery, built with React, Vite and CSS Module
 
 My live portfolio, built with React, TypeScript, Vite and Tailwind CSS. [Source code](https://github.com/Yerima18/lyma-portfolio).
 
-### [MedTrace Benin](https://github.com/Yerima18/medtrace-benin)
+### [SanteBenin](https://github.com/Yerima18/SanteBenin)
 
-A QR code-based medicine traceability system to combat counterfeit drugs in Benin and West Africa, with batch registration, medicine verification, fraud detection and supply-chain tracking.
+An educational public-health platform for Benin, sharing disease information, prevention guides, vaccination schedules, emergency contacts and health news.
 
 ## Tech
 
