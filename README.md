@@ -14,9 +14,9 @@ A responsive website for a Cotonou bakery, built with React, Vite and CSS Module
 
 My live portfolio, built with React, TypeScript, Vite and Tailwind CSS. [Source code](https://github.com/Yerima18/lyma-portfolio).
 
-### [Rentflow-Benin](https://github.com/Yerima18/Rentflow-Benin)
+### [MedTrace Benin](https://github.com/Yerima18/medtrace-benin)
 
-A bilingual rental-management app built with Next.js, TypeScript, PostgreSQL and Prisma. The public demo is currently unavailable; the repository contains the project source.
+A QR code-based medicine traceability system to combat counterfeit drugs in Benin and West Africa, with batch registration, medicine verification, fraud detection and supply-chain tracking.
 
 ## Tech
 
